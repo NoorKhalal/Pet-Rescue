@@ -9,6 +9,8 @@ Il s'agit d’aborder le problème de conception du jeu
 en compartimentant bien les différents aspects, en offrant le choix de jouer via terminal ou sur interface graphique.
 
 
+<img src="https://user-images.githubusercontent.com/73107891/221251351-3412e4b3-cfd1-4188-8ba0-6c9ba6bbb3db.png" width="350" height = "400">
+
 ## Usage:
 
 ### Compilation :
