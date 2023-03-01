@@ -36,7 +36,7 @@ les lettres proposées.
 Dans chaque vue, vous pouvez commencer par lire les règles du jeu pour plus de détails.
 
 
-## Participantes au projets:
+## Participantes au projet:
 Noor Khalal
 
 Manon Simonot
